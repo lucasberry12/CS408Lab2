@@ -1,6 +1,6 @@
 # web-dev-starter
 
-This is the first lab for CS 408. This project utilizes the web-dev-starter template and adds small changes to it.
+This is the lab for CS 408 Module 2. This project utilizes the web-dev-starter template and adds small changes to it.
 
 ## Getting Started
 
