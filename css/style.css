@@ -1,4 +1,4 @@
-h1{
+h1 {
   border-color: #d3e644;
   border-style: dashed;
 }
@@ -9,7 +9,8 @@ table {
   margin-bottom: 20px;
 }
 
-th, td {
+th,
+td {
   padding: 12px 15px;
   text-align: left;
   border-bottom: 1px solid #ddd;
@@ -26,4 +27,26 @@ tbody tr:nth-child(even) {
 
 tbody tr:hover {
   background-color: #e9e9e9;
+}
+
+ul {
+  font-family: monospace;
+  font-size: 15px;
+  padding-top: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+img {
+  display: block;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+input {
+  margin: 5px;
 }

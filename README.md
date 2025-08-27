@@ -1,8 +1,6 @@
 # web-dev-starter
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is the first lab for CS 408. This project utilizes the web-dev-starter template and adds small changes to it.
 
 ## Getting Started
 
@@ -11,6 +9,7 @@ To get started, clone this repository and run the following commands:
 ```bash
 npm install
 ```
+
 This will install the necessary dependencies for the project.
 
 ## Development
